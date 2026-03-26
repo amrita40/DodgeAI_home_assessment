@@ -4,6 +4,10 @@ A full-stack application for visualizing and querying SAP S/4HANA Order-to-Cash 
 
 ---
 
+## demo
+![image](https://github.com/amrita40/DodgeAI_home_assessment/blob/main/Screenshot%202026-03-26%20230932.png)
+
+
 ## Architecture
 
 ```
